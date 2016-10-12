@@ -1,0 +1,23 @@
+First install node.js msi from the above link
+
+http://blog.teamtreehouse.com/install-node-js-npm-windows
+
+node.js cmd
+npm install http-server -g 
+ex:
+http-server "C:\Users\sree\Desktop\angular tutorials\Angular in Depth\workshop\angello\app"
+
+Demo application -structure link
+https://github.com/joeeames/AngularFundamentalsFiles
+
+Download the latest Angular code  
+https://code.angularjs.org
+https://blog.bekt.net/p/angular-prefetch/
+
+Install express in Angular project
+npm install express@4.13.0 body-parser@1.13.1
+
+for proxy 
+
+npm config set proxy http://'500586:Artemisfowl$600'@proxy.cognizant.com:6050 
+npm config set https-proxy http://'500586:Artemisfowl$600'@proxy.cognizant.com:6050
